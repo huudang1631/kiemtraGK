@@ -13,8 +13,9 @@
     <form action="" method="">
         <label for="">Tên Người Dùng</label>
         <input type="text" name="username" class="txtUserName">
-        <label for="">MatKhau</label>
+        <label for="">Password</label>
         <input type="text" name="password" class="txtpassword">
+        <button>login</button>
     </form>
 </body>
 
